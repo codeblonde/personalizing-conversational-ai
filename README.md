@@ -3,27 +3,11 @@
 ## Practical implementation of the Master's Thesis submitted in partial fulfillment to the requirements for a Master's Degree in Computational Linguistics at Ruhr-University Bochum
 
 ### Abstract
-As human-machine interactions become ever more frequent, the trend in Artificial Intelligence goes 
-towards personalized conversational agents. These agents mimic human behavior in respect to 
-personality and are either bestowed with their own persona or have received the ability to read and 
-respond to human emotion. Studies attest the success of such agents with increased measurements in 
-language competence and user satisfaction.
+As human-machine interactions become ever more frequent, the trend in Artificial Intelligence goes towards personalized conversational agents. These agents mimic human behavior in respect to personality and are either bestowed with their own persona or have received the ability to read and respond to human emotion. Studies attest the success of such agents with increased measurements in language competence and user satisfaction.
 
-This thesis takes an approach to personalization that is based in psycholinguistic and personality 
-theory. The aim is to further improve the user experience in human-chatbot interaction by developing
-a conversational agent that is flexible in its linguistic behavior and adapts to the user's 
-personality. It is assumed, that the user will feel more comfortable talking to the conversational 
-agent, when it embodies a personality that is similar to the user's, as to when it is dissimilar. 
-To that end, a new dataset comprising personality annotated dialogues was collected. Furthermore, 
-state-of-the-art Transformer neural networks and methods such as transfer learning are used for the 
-implementation of the agent. 
+This thesis takes an approach to personalization that is based in psycholinguistic and personality theory. The aim is to further improve the user experience in human-chatbot interaction by developing a conversational agent that is flexible in its linguistic behavior and adapts to the user's personality. It is assumed, that the user will feel more comfortable talking to the conversational agent, when it embodies a personality that is similar to the user's, as to when it is dissimilar. To that end, a new dataset comprising personality annotated dialogues was collected. Furthermore, state-of-the-art Transformer neural networks and methods such as transfer learning are used for the implementation of the agent. 
 
-In this context, the thesis covers fundamental linguistic dialogue theory, as well as pioneering and 
-contemporary techniques in dialogue response generation and machine learning. The focus will lie on 
-Transformer-based conversational agents and end-to-end approaches. Unfortunately, the thesis is not 
-able to provide a clear conclusion on the benefits of incorporating personality traits in 
-personalization, yet offers some discussion on issues with the approach in general and possible 
-improvements in the future. 
+In this context, the thesis covers fundamental linguistic dialogue theory, as well as pioneering and contemporary techniques in dialogue response generation and machine learning. The focus will lie on Transformer-based conversational agents and end-to-end approaches. Unfortunately, the thesis is not able to provide a clear conclusion on the benefits of incorporating personality traits in personalization, yet offers some discussion on challenges with the approach in general and possible improvements.
 
 ### About
 The practical part of the thesis is divided in two parts. The first part is concerned with data understanding 
