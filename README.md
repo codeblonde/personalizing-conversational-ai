@@ -1,6 +1,6 @@
 # Personalizing Conversational AI Using the Big Five Personality Traits
 
-## Practical implementation of the Master's Thesis submitted in partial fulfillment to the requirements for an Master's Degree in Computational Linguistics at Ruhr-University Bochum
+## Practical implementation of the Master's Thesis submitted in partial fulfillment to the requirements for a Master's Degree in Computational Linguistics at Ruhr-University Bochum
 
 ### Abstract
 As human-machine interactions become ever more frequent, the trend in Artificial Intelligence goes 
