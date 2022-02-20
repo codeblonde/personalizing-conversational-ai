@@ -1,0 +1,14 @@
+model_checkpoint: checkpoints/
+n_candidates: 3
+max_history: 3
+train_batch_size: 4
+test_batch_size: 4
+gradient_accumulation_steps: 8
+lr: 6.25e-5
+lm_coef: 1.0
+mc_coef: 1.0
+max_norm: 1.0
+n_epochs: 5
+eval_before_start: True
+local_rank: -1
+fp16: None
